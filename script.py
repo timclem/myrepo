@@ -11,3 +11,5 @@ elif reponse == "n":
     print("cest pas cool")
 elif reponse == "s":
 	print("mais non ")
+elif reponse == "b":
+	print("okey")
