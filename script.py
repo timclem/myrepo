@@ -5,3 +5,4 @@ print (a)
 b = "gros"
 print (b)
 aaagitt
+print("salut")
